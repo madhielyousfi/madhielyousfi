@@ -1,22 +1,69 @@
-# 👋Hi I'm Mahdi EL Yousfi!
-👋 Data Analyst passionate about uncovering insights and solving complex problems through data.
-🎓 Studied Data Analytics with a strong foundation in Computer Science.
-📊 Specializing in data visualization, statistical analysis, and business intelligence tools like Python, SQL, and Tableau.
-🌱 Continuously growing my knowledge through #learninginpublic in my digital garden
-📚 Currently diving deeper into machine learning and data engineering.
-🔍 Exploring the intersection of data and decision-making to drive impactful outcomes!
+# Hi, I'm Mahdi El Yousfi 👋
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@Dados) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mahdi-el-yousfi-947633289) 
+**IT Support Professional · Aspiring Data Engineer**
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Quill](https://img.shields.io/badge/Quill-52B0E7?style=for-the-badge&logo=apache&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=madhielyousfi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=madhielyousfi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=madhielyousfi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I have a background in digital infrastructure and cloud computing, with experience supporting Windows systems, hardware, software, and networks. I am building practical data engineering skills through Python, SQL, ETL pipelines, databases, and API integrations.
 
----
+My goal is to turn raw data into reliable, useful datasets and grow into a junior data engineering role.
 
+## Skills & knowledge
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| Area | Hands-on skills |
+| --- | --- |
+| Data engineering | CSV and JSON ingestion, data cleaning, validation, deduplication, incremental loads, ETL pipelines |
+| Python & APIs | Python, pandas, FastAPI, REST API integration, SQLAlchemy, Psycopg |
+| Databases & analytics | SQL, PostgreSQL, SQLite, MySQL, star schemas, KPI aggregation, Excel |
+| Infrastructure & support | Linux, Windows troubleshooting, hardware support, network configuration, Docker, Docker Compose |
+| Development tools | Git, GitHub, HTML, CSS, React, Figma |
+
+**Currently learning:** Apache Airflow, pipeline orchestration, cloud data engineering, and deeper SQL performance analysis.
+
+## Featured projects
+
+### [Sales CSV → PostgreSQL ETL](https://github.com/madhielyousfi/sales-csv-postgres-etl)
+A Python learning project that cleans messy sales data with pandas, validates records, calculates monetary totals with Decimal, and loads valid rows into PostgreSQL.
+
+- Rejected-row reports and duplicate detection
+- Transactional inserts and safe repeated loads
+- SQL constraints and automated tests
+
+**Tools:** Python · pandas · PostgreSQL · Psycopg · Docker Compose
+
+### [Weather Data Collection Pipeline](https://github.com/madhielyousfi/weather-pipeline)
+A pipeline that collects historical weather from the Open-Meteo API, parses JSON, and stores observations in PostgreSQL.
+
+- Incremental ingestion and historical backfills
+- Upserts to avoid duplicate observations
+- REST endpoints for ingestion, status, and stored data
+
+**Tools:** Python · FastAPI · PostgreSQL · Docker
+
+### [Data Platform Dashboard](https://github.com/madhielyousfi/Data-Platform-Dashboard)
+An ETL platform built with Python's standard library: ingest, clean, aggregate, and load data into a SQLite star schema, then explore KPIs in a web dashboard.
+
+**Tools:** Python · SQLite · SQL · CSV
+
+### [Intelligent IT Support](https://github.com/madhielyousfi/intelligent-it-support)
+An IT service management project connecting my support background with application development and data reporting.
+
+- Customer, device, and ticket management
+- Technician assignment and admin approval of status changes
+- Role-based access, ticket history, and ETL reporting exports
+- AI category suggestions and knowledge-base recommendations
+
+**Tools:** FastAPI · React · PostgreSQL · SQLAlchemy · Docker
+
+## Background
+
+- **Education:** Technicien Spécialisé en Infrastructure Digitale — Option Cloud Computing, OFPPT Al Adarissa.
+- **Experience:** IT support for desktop computers, laptops, and accessories; freelance remote support for Windows, software installation, drivers, and network setup.
+- **Training & certifications:** Cisco networking courses and Network Technician Career Path; Microsoft Office Specialist Word 2016 and Excel 2016.
+
+## My learning focus
+
+I am strengthening the fundamentals behind dependable data pipelines: data quality, SQL, database design, testing, and orchestration. I share my progress through practical projects on GitHub.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/mahdi-el-yousfi-947633289/) · [GitHub repositories](https://github.com/madhielyousfi?tab=repositories)
+
